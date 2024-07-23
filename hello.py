@@ -1,0 +1,1 @@
+print("o mundo eh um moinho")
